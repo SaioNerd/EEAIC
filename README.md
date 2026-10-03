@@ -1,6 +1,6 @@
 # Energy-Efficient Analog Integrated Circuits (EEAIC)
 
-This repository contains advanced analog and mixed-signal integrated circuit design projects implemented in **TSMC 65 nm CMOS technology**, developed as part of the advanced Master's course Energy-Efficient Analog Integrated Circuits (EEAIC) at ETH Zürich.. The assignments explore the design, optimization, and rigorous simulation (including PSS, PNOISE, and PSTB analyses) of high-performance analog systems, with a focus on power efficiency and precision.
+This repository contains advanced analog and mixed-signal integrated circuit design projects implemented in **TSMC 65 nm CMOS technology**, developed as part of the advanced Master's course Energy-Efficient Analog Integrated Circuits (EEAIC) at ETH Zürich. The assignments explore the design, optimization, and rigorous simulation (including PSS, PNOISE, and PSTB analyses) of high-performance analog systems, with a focus on power efficiency and precision.
 
 While this repository serves as a comprehensive portfolio of coursework, the following three projects represent the primary architectural designs:
 
