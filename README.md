@@ -34,6 +34,6 @@ While this repository serves as a comprehensive portfolio of coursework, the fol
 
 ## Tools & Methodologies
 
-* **EDA Tools:** Cadence Virtuoso, ADE Assembler
+* **EDA Tools:** Cadence Virtuoso (ADE Maestro, Layout XL)
 * **Analyses:** Transient, Periodic Steady-State (PSS), Periodic Noise (PNOISE), Periodic AC (PAC), and Stability (PSTB)
 * **Technology:** TSMC 65 nm CMOS
